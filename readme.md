@@ -104,6 +104,9 @@ duty cycle which will yield that position. Now the formula should look like this
 
 DutyCycle = 1/18 * (desired angle) + 2.
 
+### Final thought
+It's ironic how I considered this a mindless task at one point- like painting a wall- when there are many of us out there that struggle to ever get to be able to understand what PWM or input pullup for pinmode would do in the first place... After you do it enough it becomes second nature regardless of language or platform.
+
 Happy hacking y'all...:)
 
 
